@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+The [Melbourne Data Analytics Platform](https://mdap.unimelb.edu.au) Tech Time group meets fortnightly to share knowledge and experiences with software, techniques, and tools. This site collects together the slides, content and resources presented each meeting.

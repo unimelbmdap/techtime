@@ -1,0 +1,12 @@
+---
+title: "Rust: what & why"
+date: 2022-02-08
+description: |
+  A brief introduction to the Rust programming language and why you might want
+  to use it as a research software author.
+categories:
+  - coding
+image: rustacean-flat-noshadow.svg
+---
+
+<iframe src="rust.pdf" height="100%" width="100%"></iframe>

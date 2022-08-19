@@ -1,0 +1,23 @@
+---
+title: "Tech Time"
+listing:
+  contents: sessions
+  image-placeholder: "static/img/melb_connect.jpg"
+  date-format: long
+  categories: true
+  id: session-listing
+---
+
+:::{.callout-warning}
+This site is very much a work in progress!
+:::
+
+This is the homepage of the [Melbourne Data Analytics Platform](https://mdap.unimelb.edu.au) Tech Time group.
+
+We meet fortnightly to share our knowledge and experience with software, techniques, and tools. This site collects together the slides, content and resources presented each meeting.
+
+## Session listing
+
+::: {#session-listing}
+:::
+
