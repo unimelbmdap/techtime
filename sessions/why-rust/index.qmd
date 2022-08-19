@@ -1,5 +1,6 @@
 ---
 title: "Rust: what & why"
+author: "Simon Mutch"
 date: 2022-02-08
 description: |
   A brief introduction to the Rust programming language and why you might want
