@@ -11,7 +11,14 @@
     "href": "index.html#session-listing",
     "title": "Tech Time",
     "section": "Session listing",
-    "text": "Session listing\n\n\n\n\n  \n\n\n\n\nRust: what & why\n\n\n\n\n\n\n\ncoding\n\n\n\n\nA brief introduction to the Rust programming language and why you might want to use it as a research software author.\n\n\n\n\n\n\nFebruary 8, 2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Session listing\n\n\n\n\n  \n\n\n\n\nRust: what & why\n\n\n\n\n\n\n\ncoding\n\n\n\n\nA brief introduction to the Rust programming language and why you might want to use it as a research software author.\n\n\n\n\n\n\nFebruary 8, 2022\n\n\nSimon Mutch\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "MDAP Tech Time",
+    "section": "",
+    "text": "This is the source code for the tech time website.\nIt is rendered and published using Quarto. The general workflow is:\n\nCreate a new Tech Time session in /sessions. If you are just adding a single page with no assets (i.e. are adding no images etc. to the repo) then you can just create a single .qmd file with the content. If you are adding a page with assets, then create a new directory in /sessions and add an index.qmd file to it. See /sessions/why-rust/index.qmd for an example.\nAdd the required metadata as yaml frontmatter to your .qmd file. The minimum requirements are:\n\n\ntitle\ndate (should be the date of your Tech Time session)\ndescription\ncategories\n\n\nUse quarto preview and have a good look to make sure your new content looks right and that it is listed on the homepage.\nPublish the site using quarto publish gh-pages\n\nPlease see the Quarto documentation for further details. In particular note the the ability to publish Python, R, Julia, and Javascript notebooks with interactive output! It’s awesome!\nIf you have any questions or problems then please contact Simon M."
   },
   {
     "objectID": "about.html",
