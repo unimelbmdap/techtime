@@ -11,8 +11,5 @@ image: rustacean-flat-noshadow.svg
 resources: img
 ---
 
-In this talk I presented a brief introduction to the Rust programming language and why you might want
-to use it as a research software author.
-
 - You can [view the slides online here](why-rust.html), or
 - you can [grab a pdf of them here](why-rust.pdf).
